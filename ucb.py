@@ -9,7 +9,6 @@ import re
 import signal
 import sys
 
-""" COC rocks! """
 def main(fn):
     """Call fn with command line arguments.  Used as a decorator.
 
