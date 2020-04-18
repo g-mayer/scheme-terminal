@@ -618,7 +618,7 @@ x
 ;;; Optional ;;;
 ;;;;;;;;;;;;;;;;;;;;
 
-
+(exit)
 
 ; Tail call optimization tests
 
